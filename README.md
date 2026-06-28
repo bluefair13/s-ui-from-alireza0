@@ -59,7 +59,7 @@
 
 ### Linux/macOS
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/alireza0/s-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/bluefair13/s-ui-from-alireza0/master/install.sh)
 ```
 
 ### Windows
